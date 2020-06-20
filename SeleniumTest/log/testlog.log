@@ -1,0 +1,16 @@
+2020-05-20 14:11:25,282 - Log4jExample -INFO - Browser opened
+2020-05-20 14:11:28,718 - Log4jExample -INFO - Clock on Register
+2020-05-20 14:11:30,173 - Log4jExample -INFO - Entering Contact Information
+2020-05-20 14:11:31,043 - Log4jExample -INFO - Entering mailing information
+2020-05-20 14:11:32,016 - Log4jExample -INFO - Selecting Country
+2020-05-20 14:11:32,196 - Log4jExample -INFO - Entering user informatation
+2020-05-20 14:14:34,060 - Log4jExample -INFO - Validation Started
+2020-05-20 14:14:34,084 - Log4jExample -INFO - Validation DONE
+2020-05-20 16:53:07,146 - Log4jExample -INFO - Browser opened
+2020-05-20 16:53:10,561 - Log4jExample -INFO - Clock on Register
+2020-05-20 16:53:12,266 - Log4jExample -INFO - Entering Contact Information
+2020-05-20 16:53:12,814 - Log4jExample -INFO - Entering mailing information
+2020-05-20 16:53:13,336 - Log4jExample -INFO - Selecting Country
+2020-05-20 16:53:13,463 - Log4jExample -INFO - Entering user informatation
+2020-05-20 16:53:59,650 - Log4jExample -INFO - Validation Started
+2020-05-20 16:53:59,661 - Log4jExample -INFO - Validation DONE
